@@ -1,0 +1,25 @@
+{
+  "name": "frameworks",
+  "version": "1.0.0",
+  "description": "Introduction to Frameworks\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[DJavascript Frameworks and Libraries",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shagunssharma/HTML-CSS-JScript.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Framework",
+    "Javascript",
+    "Library"
+  ],
+  "author": "Shagun Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shagunssharma/HTML-CSS-JScript/issues"
+  },
+  "homepage": "https://github.com/shagunssharma/HTML-CSS-JScript#readme"
+}
