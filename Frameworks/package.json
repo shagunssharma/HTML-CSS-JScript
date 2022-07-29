@@ -2,7 +2,6 @@
   "name": "frameworks",
   "version": "1.0.0",
   "description": "Introduction to Frameworks\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[DJavascript Frameworks and Libraries",
-  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,10 +15,14 @@
     "Javascript",
     "Library"
   ],
+  "dependencies": {
+    "express": "^4.18.1"
+  },
   "author": "Shagun Sharma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shagunssharma/HTML-CSS-JScript/issues"
   },
-  "homepage": "https://github.com/shagunssharma/HTML-CSS-JScript#readme"
+  "homepage": "https://github.com/shagunssharma/HTML-CSS-JScript#readme",
+  "main": "app.js"
 }
